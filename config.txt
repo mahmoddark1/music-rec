@@ -1,0 +1,6 @@
+token= NTY4NDAxMzI0ODQ1MTcwNjg4.XLhjBA.2HVrA-4Ai6hp4kAQYX_nLFFm2Ck
+owner= 507892843881168897
+prefix= 1
+game= !thelp
+stayinchannel=true
+songinstatus=true 
