@@ -1,6 +1,6 @@
-token= NTY4NDA2MzEyMTkxMzkzODEy.XLhpmQ.7TqczxSKrhw2Fh3B5CjATYVm-TA
-owner= 507892843881168897
-prefix= 1
-game= !thelp
+token=NTY4NDA2MzEyMTkxMzkzODEy.XLhpmQ.7TqczxSKrhw2Fh3B5CjATYVm-TA
+owner=507892843881168897
+prefix=1
+game=!thelp
 stayinchannel=true
 songinstatus=true 
